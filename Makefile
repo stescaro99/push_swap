@@ -1,5 +1,5 @@
-NAME = pushswap.exe
-NAME_BONUS = checker.exe
+NAME = pushswap
+NAME_BONUS = checker
 
 MAIN_SRC = main.c 
 

@@ -1,9 +1,9 @@
 125/125 on the evaluation
 
-1000 n -> ~9000 m
+1000 numbers -> ~9000 moves
 
-500 n -> 3500-4100 m
+500 numbers -> 3500-4100 moves
 
-100 n -> 480-620 m
+100 numbers -> 480-620 moves
 
-10 n -> 25-35 m
+10 numbers -> 25-35 moves
